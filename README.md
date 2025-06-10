@@ -14,47 +14,20 @@
 
 ---
 
-## 🎮 **Interactive Developer Profile**
+## 🚀 **About Me**
 
-<details>
-<summary>🔍 <b>Click to explore my coding journey!</b></summary>
+**AI/ML Engineer & Full-Stack Developer** passionate about creating intelligent solutions that reshape tomorrow!
 
-```javascript
-const gokulanV = {
-    name: "Gokulan V",
-    title: "AI/ML Engineer & Full-Stack Developer",
-    location: "Coimbatore, Tamil Nadu, India",
-    education: {
-        degree: "Bachelor of Engineering - Computer Science",
-        college: "Sri Shakthi Institute of Engineering and Technology",
-        cgpa: "8.02",
-        year: "2023-2027"
-    },
-    contact: {
-        email: "gokulanv93@gmail.com",
-        phone: "9361620860",
-        linkedin: "linkedin.com/GokulanV",
-        github: "github.com/GokulanV"
-    },
-    currentlyLearning: ["Blender", "Procreate", "Advanced AI/ML", "3D Design"],
-    motto: "Building intelligent solutions that reshape tomorrow!",
-    
-    getRandomFact: () => {
-        const facts = [
-            "🎯 Top 25 out of 5000+ in TruthTell Hackathon",
-            "🏆 Top 75 out of 900+ in Cyberthon 2025",
-            "🤖 Built AI systems that detect misinformation",
-            "🚀 Created 3D space portfolios with realistic physics",
-            "📱 Developed real-time chat apps with 10k+ users"
-        ];
-        return facts[Math.floor(Math.random() * facts.length)];
-    }
-};
+🎓 **Education:** Bachelor of Engineering - Computer Science  
+🏫 **College:** Sri Shakthi Institute of Engineering and Technology (2023-2027)  
+📊 **CGPA:** 8.02  
+📍 **Location:** Coimbatore, Tamil Nadu, India  
+📧 **Email:** gokulanv93@gmail.com  
+📱 **Phone:** 9361620860  
 
-console.log("🌟 Fun Fact:", gokulanV.getRandomFact());
-```
-
-</details>
+🌱 **Currently Learning:** Blender, Procreate, Advanced AI/ML, 3D Design  
+💡 **Mission:** Building the bridge between AI and human creativity  
+🎯 **Goal:** Crafting digital experiences that inspire and innovate
 
 ---
 
@@ -175,63 +148,169 @@ console.log("🌟 Fun Fact:", gokulanV.getRandomFact());
 
 ---
 
-## 📊 **GitHub Analytics Dashboard**
+## 🎯 **Interactive Skills Matrix**
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=GokulanV&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GokulanV&theme=radical&hide_border=true" />
+### **💻 Programming Mastery**
 
-</div>
+<table>
+<tr>
+<td>
 
-<div align="center">
+**🐍 Python**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+▓▓▓▓▓▓▓▓▓▓ **95%**  
+*AI/ML, Backend, Automation*
 
-<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulanV&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+</td>
+<td>
 
-</div>
+**🎯 Dart/Flutter**  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)  
+▓▓▓▓▓▓▓▓▓░ **90%**  
+*Mobile Apps, Cross-platform*
 
-<div align="center">
+</td>
+<td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GokulanV&theme=react-dark&hide_border=true&area=true" />
+**⚡ JavaScript**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+▓▓▓▓▓▓▓▓░░ **85%**  
+*Frontend, Full-stack*
 
-</div>
+</td>
+</tr>
+<tr>
+<td>
 
----
+**🔷 TypeScript**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
+▓▓▓▓▓▓▓▓░░ **80%**  
+*Type-safe development*
 
-## 🎯 **Skills Matrix**
+</td>
+<td>
+
+**⚙️ C**  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
+▓▓▓▓▓▓▓░░░ **75%**  
+*System programming*
+
+</td>
+<td>
+
+</td>
+</tr>
+</table>
+
+### **🚀 Framework Expertise**
 
 <details>
-<summary>🛠️ <b>Technical Proficiency Breakdown</b></summary>
+<summary>🌐 <b>Web Development Frameworks</b></summary>
 
-```
-Programming Languages:
-├── Python          ████████████████████ 95%
-├── Dart/Flutter    ███████████████████  90%
-├── JavaScript      ██████████████████   85%
-├── TypeScript      █████████████████    80%
-└── C               ████████████████     75%
-
-Frameworks & Libraries:
-├── Flask/FastAPI   ████████████████████ 95%
-├── Flutter         ████████████████████ 95%
-├── React           ██████████████████   85%
-├── Three.js        █████████████████    80%
-└── LangChain       ████████████████     75%
-
-AI/ML Technologies:
-├── HuggingFace     ████████████████████ 90%
-├── LangChain       ██████████████████   85%
-├── LLM Integration ██████████████████   85%
-└── Groq            █████████████████    80%
-
-Design & Creative:
-├── UI/UX Design    ██████████████████   85%
-├── Figma           ██████████████████   85%
-├── 3D Modeling     ████████████████     75%
-└── Graphic Design  ████████████████     75%
-```
+| Framework | Proficiency | Experience |
+|:---------:|:-----------:|:----------:|
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) **Flask** | ▓▓▓▓▓▓▓▓▓▓ **95%** | 3+ years |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) **FastAPI** | ▓▓▓▓▓▓▓▓▓░ **90%** | 2+ years |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) **React** | ▓▓▓▓▓▓▓▓░░ **85%** | 2+ years |
+| ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white) **Three.js** | ▓▓▓▓▓▓▓▓░░ **80%** | 1+ year |
 
 </details>
+
+<details>
+<summary>📱 <b>Mobile Development</b></summary>
+
+**Flutter Ecosystem Mastery:**
+- 📱 **Cross-platform apps** - ▓▓▓▓▓▓▓▓▓▓ **95%**
+- 🔥 **Firebase integration** - ▓▓▓▓▓▓▓▓▓░ **90%**
+- 🎨 **Custom UI/UX** - ▓▓▓▓▓▓▓▓▓░ **90%**
+- 📊 **State management** - ▓▓▓▓▓▓▓▓░░ **85%**
+
+</details>
+
+<details>
+<summary>🤖 <b>AI/ML Technologies</b></summary>
+
+**Machine Learning Stack:**
+- 🤗 **HuggingFace** - ▓▓▓▓▓▓▓▓▓░ **90%**
+- 🦜 **LangChain** - ▓▓▓▓▓▓▓▓░░ **85%**
+- 🧠 **LLM Integration** - ▓▓▓▓▓▓▓▓░░ **85%**
+- ⚡ **Groq** - ▓▓▓▓▓▓▓▓░░ **80%**
+- 🔍 **FAISS** - ▓▓▓▓▓▓▓░░░ **75%**
+
+</details>
+
+<details>
+<summary>🎨 <b>Design & Creative Skills</b></summary>
+
+**Creative Technology:**
+- ✨ **UI/UX Design** - ▓▓▓▓▓▓▓▓░░ **85%**
+- 🎨 **Figma** - ▓▓▓▓▓▓▓▓░░ **85%**
+- 🎭 **3D Modeling** - ▓▓▓▓▓▓▓░░░ **75%**
+- 🖌️ **Graphic Design** - ▓▓▓▓▓▓▓░░░ **75%**
+- 🌟 **Blender** - ▓▓▓▓▓▓░░░░ **60%** *(Learning)*
+
+</details>
+
+### **🛠️ Development Tools Mastery**
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+### **💪 Soft Skills Arsenal**
+
+<table align="center">
+<tr>
+<td align="center">
+
+**🗣️ Communication**  
+▓▓▓▓▓▓▓▓▓░ **90%**
+
+</td>
+<td align="center">
+
+**🧩 Problem Solving**  
+▓▓▓▓▓▓▓▓▓▓ **95%**
+
+</td>
+<td align="center">
+
+**👥 Leadership**  
+▓▓▓▓▓▓▓▓░░ **85%**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🤝 Collaboration**  
+▓▓▓▓▓▓▓▓▓░ **90%**
+
+</td>
+<td align="center">
+
+**🌐 Networking**  
+▓▓▓▓▓▓▓▓░░ **80%**
+
+</td>
+<td align="center">
+
+**🚀 Growth Mindset**  
+▓▓▓▓▓▓▓▓▓▓ **100%**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
